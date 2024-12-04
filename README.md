@@ -15,9 +15,6 @@ The Dart extension enhances Visual Studio Code by providing support for the Dart
 #### **Installation**
 The Dart extension can be installed directly from the Visual Studio Code Marketplace. Alternatively, it can be found by searching within the editor itself. Upon installation, it seamlessly integrates into the development workflow.
 
-#### **Support**
-Issues encountered while using the Dart extension can be reported on the [Dart-Code GitHub repository](https://github.com/Dart-Code/Dart-Code/issues/new/choose).
-
 ---
 
 ### **2. Flutter Extension**
